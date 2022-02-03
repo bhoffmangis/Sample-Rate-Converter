@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample Rate Converter", "Sample Rate Converter.csproj", "{A164C63C-3E93-4173-A45A-96630AC6D3C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A164C63C-3E93-4173-A45A-96630AC6D3C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A164C63C-3E93-4173-A45A-96630AC6D3C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A164C63C-3E93-4173-A45A-96630AC6D3C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A164C63C-3E93-4173-A45A-96630AC6D3C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00D433D1-CD0A-4B4A-8633-C0439D7FF156}
+	EndGlobalSection
+EndGlobal
